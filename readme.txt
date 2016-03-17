@@ -1,1 +1,2 @@
-git is a very powerful software
+git is also a free software
+git is a distributed system
